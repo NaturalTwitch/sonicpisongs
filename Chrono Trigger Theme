@@ -78,6 +78,7 @@ def bass_cs_2
   sleep 1
 end
 
+
 def bass_e
   play :e2, release: 1.5
   sleep 1.5
